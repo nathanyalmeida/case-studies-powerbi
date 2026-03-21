@@ -1,33 +1,71 @@
-# Municipal Digital Publication Analysis
+# Brazilian E-Commerce Operational Performance Dashboard
 
-## Business Context
+## Overview
 
-This project analyzes digital publication practices among Brazilian municipalities with populations above 100k inhabitants.
-The focus is on evaluating transparency infrastructure and digital maturity.
+This Power BI dashboard analyzes operational and commercial performance of a Brazilian marketplace using the Olist public dataset.
 
-## Objective
+The report is structured into three analytical perspectives:
 
-* Assess adoption of publication formats (PDF, HTML, etc.)
-* Analyze domain and protocol usage patterns
-* Evaluate data availability timelines
-* Explore regional transparency differences
+* Sales performance
+* Logistics performance
+* Customer experience quality
+
+The objective is to provide a consolidated view of marketplace operations across revenue generation, delivery performance, and customer feedback indicators.
+
+## Business Questions Addressed
+
+* How has marketplace revenue evolved over time?
+* What is the relationship between freight cost and sales value?
+* Which product categories concentrate the highest order volume?
+* How efficient is the delivery process?
+* What proportion of orders are delivered on time?
+* How is customer review distribution impacting perceived service quality?
+
+## Dashboard Structure
+
+### Sales
+
+Focuses on commercial performance indicators such as:
+
+* Total revenue generated
+* Total freight cost
+* Order volume evolution
+* Product category contribution
+
+### Logistics
+
+Analyzes operational delivery efficiency including:
+
+* Order status distribution
+* On-time vs delayed deliveries
+* Geographic distribution of customers
+
+### Quality
+
+Evaluates customer satisfaction signals through:
+
+* Review score distribution
+* Average review score
+* Product category performance by satisfaction level
+
+## Data
+
+Dataset: Brazilian E-Commerce Public Dataset by Olist
+Period covered: 2016–2018
+Scope: Marketplace transactions across multiple Brazilian regions.
 
 ## Analytical Approach
 
-* Public data transparency analytics
-* Infrastructure maturity indicators
-* Regional comparative analysis
-
-## Key Insights
-
-* Majority of municipalities rely on limited publication formats
-* Variability in digital maturity across regions
-* Opportunities for improvement in transparency infrastructure
+* Dimensional modeling for marketplace transactions
+* KPI-driven dashboard design
+* Operational performance monitoring framework
 
 ## Tools
 
-Power BI, Public Data Analytics
+Power BI
+DAX
+Data Modeling
 
 ## Notes
 
-Analysis based on publicly available municipal digital publication data.
+Dataset is publicly available and used for analytical demonstration purposes.
