@@ -1,5 +1,10 @@
 # Supporter Engagement Monitoring Dashboard
 
+## 🔗 Live Dashboard
+
+You can explore the interactive Power BI report here:
+👉 **[View Live Report](https://app.powerbi.com/view?r=eyJrIjoiMjE2MzZkNDctMzA2NS00Yjc5LTliZWMtZjY4OTc1YmEzMTc5IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
+
 ## Overview
 
 This Power BI dashboard monitors supporter engagement activity across campaigns, providing a consolidated view of interaction metrics, participation trends, and demographic distribution.
