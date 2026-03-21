@@ -57,10 +57,10 @@ Time-based performance storytelling dashboard focused on growth tracking, trend 
 
 Each project folder follows a standardized analytical structure:
 
-report/ – Power BI report file (.pbix)
-docs/ – Business context, analytical notes, and supporting documentation
-assets/ – Dashboard screenshots and visual references
-data/ – Supporting datasets or data source references
+* **report/** – Power BI report file (.pbix)
+* **docs/** – Business context, analytical notes, and supporting documentation
+* **assets/** – Dashboard screenshots and visual references
+* **data/** – Supporting datasets or data source references
 
 ---
 
