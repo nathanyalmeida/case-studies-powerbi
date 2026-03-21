@@ -1,4 +1,4 @@
-# Power BI Analytics Portfolio
+# Power BI Analytics Case Studies
 
 This repository showcases a set of business-focused analytics dashboards developed in Power BI.
 The projects demonstrate how data can be structured, analyzed, and communicated to support performance monitoring, decision-making, and strategic insights across different domains.
