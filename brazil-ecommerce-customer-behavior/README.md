@@ -1,40 +1,71 @@
-# Brazilian E-commerce Customer Behavior Analysis
+# Brazilian E-Commerce Operational Performance Dashboard
 
-## Business Context
+## Overview
 
-This project analyzes marketplace transaction data from the Brazilian E-Commerce Public Dataset (Olist).
-The goal is to understand customer purchasing patterns, operational performance, and drivers of customer satisfaction.
+This Power BI dashboard analyzes operational and commercial performance of a Brazilian marketplace using the Olist public dataset.
 
-## Objective
+The report is structured into three analytical perspectives:
 
-* Evaluate order lifecycle performance
-* Analyze revenue distribution across product categories
-* Understand geographic purchasing behavior
-* Assess logistics and delivery efficiency
-* Explore customer feedback signals
+* Sales performance
+* Logistics performance
+* Customer experience quality
+
+The objective is to provide a consolidated view of marketplace operations across revenue generation, delivery performance, and customer feedback indicators.
+
+## Business Questions Addressed
+
+* How has marketplace revenue evolved over time?
+* What is the relationship between freight cost and sales value?
+* Which product categories concentrate the highest order volume?
+* How efficient is the delivery process?
+* What proportion of orders are delivered on time?
+* How is customer review distribution impacting perceived service quality?
+
+## Dashboard Structure
+
+### Sales
+
+Focuses on commercial performance indicators such as:
+
+* Total revenue generated
+* Total freight cost
+* Order volume evolution
+* Product category contribution
+
+### Logistics
+
+Analyzes operational delivery efficiency including:
+
+* Order status distribution
+* On-time vs delayed deliveries
+* Geographic distribution of customers
+
+### Quality
+
+Evaluates customer satisfaction signals through:
+
+* Review score distribution
+* Average review score
+* Product category performance by satisfaction level
 
 ## Data
 
-Public dataset containing approximately 100k orders from 2016 to 2018 across multiple Brazilian marketplaces.
-Includes customer, order, product, payment, review, and geolocation information.
+Dataset: Brazilian E-Commerce Public Dataset by Olist
+Period covered: 2016–2018
+Scope: Marketplace transactions across multiple Brazilian regions.
 
 ## Analytical Approach
 
-* Dimensional modeling for transaction analysis
-* KPI design for operational and customer metrics
-* Multi-dimensional exploration of purchasing behavior
-
-## Key Insights
-
-* Logistics performance shows regional variability
-* Revenue concentration in specific product segments
-* Customer satisfaction correlates with delivery performance
+* Dimensional modeling for marketplace transactions
+* KPI-driven dashboard design
+* Operational performance monitoring framework
 
 ## Tools
 
-Power BI, DAX, Data Modeling
+Power BI
+DAX
+Data Modeling
 
 ## Notes
 
-Dataset is publicly available and used for analytical demonstration purposes.
-
+Dataset is publicly available and used for analytical demon
