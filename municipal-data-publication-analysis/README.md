@@ -1,5 +1,7 @@
 # Municipal Digital Publication Analysis
 
+Developed in 2020
+
 ## 🔗 Live Dashboard
 
 You can explore the interactive Power BI report here:
