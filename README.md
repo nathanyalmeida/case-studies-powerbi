@@ -77,6 +77,6 @@ Datasets used are public or structured for analytical demonstration purposes.
 **Nathany Almeida**
 Analytics Professional | Business Intelligence | Data Analytics
 
-🔗 LinkedIn: https://www.linkedin.com/in/nathanymiguel/
-🔗 Portfolio / Website: [https://yourwebsite.com](https://nathanyalmeida.framer.website/)
-🔗 Email: [nathanymiguel@gmail.com](mailto:nathanymiguel@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/nathanymiguel/
+* 🔗 Portfolio / Website: [https://nathanyalmeida.framer.website](https://nathanyalmeida.framer.website/)
+* 🔗 Email: [nathanymiguel@gmail.com](mailto:nathanymiguel@gmail.com)
