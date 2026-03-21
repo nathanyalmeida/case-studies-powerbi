@@ -1,5 +1,11 @@
 # Municipal Digital Publication Analysis
 
+## 🔗 Live Dashboard
+
+You can explore the interactive Power BI report here:
+👉 **[View Live Report](https://app.powerbi.com/view?r=eyJrIjoiYjIzNDQ1NWItMjIxMS00N2VlLWFmN2ItMzRhZDMzZDA4M2M2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
+
+
 ## Business Context
 
 This project analyzes digital publication practices among Brazilian municipalities with populations above 100k inhabitants.
