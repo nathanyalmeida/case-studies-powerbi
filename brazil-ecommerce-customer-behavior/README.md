@@ -1,5 +1,10 @@
 # Brazilian E-Commerce Operational Performance Dashboard
 
+## 🔗 Live Dashboard
+
+You can explore the interactive Power BI report here:
+👉 **[View Live Report](https://app.powerbi.com/view?r=eyJrIjoiOGI3NThhYjYtN2ZiNC00NDkxLTk2ZWYtNWZhNTViZmEzNDk2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
+
 ## Overview
 
 This Power BI dashboard analyzes operational and commercial performance of a Brazilian marketplace using the Olist public dataset.
