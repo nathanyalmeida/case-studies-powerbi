@@ -1,63 +1,82 @@
 # Power BI Analytics Portfolio
 
-This repository contains a collection of business intelligence dashboards developed in Power BI, focused on performance monitoring, engagement analytics, and analytical storytelling across different domains.
-
-The projects demonstrate practical applications of data modeling, KPI design, and visual communication to support operational monitoring and strategic decision-making.
-
----
-
-## Portfolio Scope
-
-The dashboards included in this portfolio cover:
-
-* Marketplace operational performance analytics
-* Sales performance storytelling and strategic reporting
-* Campaign engagement monitoring
-* Public data transparency and digital maturity analysis
-
-Each project explores a different analytical perspective, ranging from KPI monitoring dashboards to presentation-oriented analytical reports.
+This repository showcases a set of business-focused analytics dashboards developed in Power BI.
+The projects demonstrate how data can be structured, analyzed, and communicated to support performance monitoring, decision-making, and strategic insights across different domains.
 
 ---
 
-## Analytical Capabilities Demonstrated
+## 📊 Portfolio Projects
 
-* Business KPI design and performance tracking
-* Dimensional data modeling for analytical reporting
-* Time-based performance analysis
-* Engagement and behavioral monitoring
-* Executive-oriented analytical storytelling
-* Dashboard usability and navigation design
+### 🛒 Marketplace Analytics
+
+**Brazil E-commerce Customer Behavior**
+Operational performance analysis of a Brazilian marketplace dataset, focusing on customer behavior, order lifecycle, and revenue dynamics.
+🔗 [View project](./brazil-ecommerce-customer-behavior)
+
+### 📣 Marketing Analytics
+
+**Campaign Engagement Analytics**
+Analysis of campaign engagement performance, including behavioral metrics, conversion dynamics, and monitoring dashboards.
+🔗 [View project](./campaign-engagement-analytics)
+
+### 🏛 Public Sector Analytics
+
+**Municipal Data Publication Analysis**
+Assessment of public data transparency and digital maturity indicators using structured analytical reporting.
+🔗 [View project](./municipal-data-publication-analysis)
+
+### 💰 Sales Performance Analytics
+
+**Sales YoY Performance Analysis**
+Time-based performance storytelling dashboard focused on growth tracking, trend interpretation, and executive reporting.
+🔗 [View project](./sales-yoy-performance-analysis)
 
 ---
 
-## Tools & Technologies
+## 🧠 Analytical Skills Demonstrated
+
+* KPI framework design and performance monitoring
+* Dimensional modeling for analytical reporting
+* Time-series and trend analysis
+* Behavioral and engagement analytics
+* Executive-level insight communication
+* Dashboard usability and information architecture
+
+---
+
+## 🛠 Tools & Methods
 
 * Power BI
 * DAX
-* Data Modeling (Star Schema concepts)
-* Data Visualization & Analytical Design
+* Star schema data modeling
+* Analytical storytelling and visualization
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
-Each folder represents an independent analytical project and contains:
+Each project folder contains:
 
 * Power BI report file (.pbix)
-* Project documentation
+* Business context and analytical documentation
 * Dashboard screenshots
-* Business context description
+* Supporting datasets or data references
 
 ---
 
-## Purpose
+## 🎯 Objective
 
-These projects aim to simulate real-world business intelligence scenarios where data is used to monitor performance, communicate insights, and support decision processes across operational and strategic levels.
+This portfolio demonstrates the ability to translate business problems into structured analytical solutions, enabling data-driven performance monitoring and strategic decision support.
 
 Datasets used are public or structured for analytical demonstration purposes.
 
 ---
 
-## Author
+## 👤 Author
 
-Analytics professional focused on business intelligence, performance analytics, and decision-support data solutions.
+**Nathany Almeida**
+Analytics Professional | Business Intelligence | Data Analytics
+
+🔗 LinkedIn: https://www.linkedin.com/in/nathanymiguel/
+🔗 Portfolio / Website: [https://yourwebsite.com](https://nathanyalmeida.framer.website/)
+🔗 Email: [nathanymiguel@gmail.com](mailto:nathanymiguel@gmail.com)
