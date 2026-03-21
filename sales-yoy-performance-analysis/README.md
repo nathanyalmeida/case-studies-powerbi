@@ -1,5 +1,10 @@
 # Yearly Sales Trends — Department and Customer Analysis
 
+## 🔗 Live Dashboard
+
+You can explore the interactive Power BI report here:
+👉 **[View Live Report](https://app.powerbi.com/view?r=eyJrIjoiNWE1ZWE3OTYtNmMwMy00NTJmLWE0YzUtMDQzMmYyNWI0YTEzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
+
 ## Overview
 
 This Power BI report presents a structured analytical narrative of sales performance across departments and customer segments over a two-year period.
