@@ -1,5 +1,7 @@
 # Brazilian E-Commerce Operational Performance Dashboard
 
+Developed in 2020
+
 ## 🔗 Live Dashboard
 
 You can explore the interactive Power BI report here:
