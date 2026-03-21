@@ -1,5 +1,7 @@
 # Yearly Sales Trends — Department and Customer Analysis
 
+Developed in 2024
+
 ## 🔗 Live Dashboard
 
 You can explore the interactive Power BI report here:
